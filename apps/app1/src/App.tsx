@@ -1,4 +1,3 @@
-import 'twin.macro';
 import React from 'react';
 import { Button } from 'ui';
 
